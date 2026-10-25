@@ -1,4 +1,4 @@
-## yo
+##           yo
 
 im a student at Santa Monica Community College, currently majoring in electrical engineering and plan to transfer to a 4-year university.
 
