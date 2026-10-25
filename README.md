@@ -1,4 +1,7 @@
-## yo
+'#5283BA'yo
+
+im a student at Santa Monica Community College, currently majoring in electrical engineering and plan to
+transfer to a 4-year university.
 
 <!--
 **tehscoop/tehscoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
